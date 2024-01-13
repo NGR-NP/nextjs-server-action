@@ -74,3 +74,7 @@
     @apply bg-background text-foreground;
   }
 }
+
+.ngr-mbs-4px{
+  margin-block-start: 4px;
+}
